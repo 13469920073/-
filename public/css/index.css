@@ -1,0 +1,142 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2829683 */
+  src: url('http://at.alicdn.com/t/font_2829683_h192fty1fxo.woff2?t=1632667092008') format('woff2'),
+       url('http://at.alicdn.com/t/font_2829683_h192fty1fxo.woff?t=1632667092008') format('woff'),
+       url('http://at.alicdn.com/t/font_2829683_h192fty1fxo.ttf?t=1632667092008') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shangyishou:before {
+  content: "\e607";
+}
+
+.icon-xiayishou:before {
+  content: "\e616";
+}
+
+.icon-youkuohao1:before {
+  content: "\e63e";
+}
+
+.icon-youkuohao2:before {
+  content: "\e631";
+}
+
+.icon-youkuohao3:before {
+  content: "\e682";
+}
+
+.icon-youkuohao4:before {
+  content: "\e660";
+}
+
+.icon-youkuohao:before {
+  content: "\e60b";
+}
+
+.icon-beifendingshiqi-02:before {
+  content: "\e617";
+}
+
+.icon-search:before {
+  content: "\e626";
+}
+
+.icon-sousuo:before {
+  content: "\e6a7";
+}
+
+.icon-wangyiyun2:before {
+  content: "\e6d0";
+}
+
+.icon-wangyiyunyinle1:before {
+  content: "\e619";
+}
+
+.icon-wangyiyunyinle2:before {
+  content: "\e606";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\e605";
+}
+
+.icon-wangyiyun1:before {
+  content: "\e604";
+}
+
+.icon-wangyiyun:before {
+  content: "\e603";
+}
+
+.icon-erji:before {
+  content: "\e60a";
+}
+
+.icon-bofanganniu:before {
+  content: "\e602";
+}
+
+.icon-wangyiyunyinleclick:before {
+  content: "\e601";
+}
+
+.icon-wangyiyunyinlezizhi-copy:before {
+  content: "\e600";
+}
+
+
+
+
+
+
+
+.yun-ser{
+  background-image: url(../img/icon/recommand_bg_2x.png);
+}
+.duqu li p{
+  background: url(../img/icon/下载.svg) no-repeat 0 15px;
+  background-size: 12px 12px;
+}
+.zhaopian-set{
+  position: relative;
+  background: url(../img/icon/d7e4e3a244701ee85fecb5d4f6b5bd57.png) no-repeat;
+  background-size: 100%;
+}
+.xuanzhuan{
+  position: relative;
+  height: 667px;
+  overflow: hidden;
+}
+.xuanzhuan-set{
+  position: absolute;
+  top: 12px;
+  left: 175px;
+  width: 90px;
+  height: 130px;
+  background:url(../img/icon/needle-ab.png) no-repeat ;
+  background-size: 98% 98%;
+  transform: rotate(-7deg);
+  z-index: 99;
+  opacity: .5;
+}
+.xuanzhuan .ret-background{
+  position: absolute;
+  top: -380px;
+  left: -625px;
+  width: 400%;
+  filter: blur(40px);
+  z-index: -1;
+}
+
+
+
+
